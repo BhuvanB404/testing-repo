@@ -41,11 +41,13 @@ Please describe the test cases and expected behavior:
 2. 
 
 ## Screenshots (if applicable)
-Add screenshots to help explain your changes
+<!--Add screenshots to help explain your changes
+-->
 
 ## Dependencies
-- Does this PR introduce new dependencies?
+<!--- Does this PR introduce new dependencies?
 - Are there changes to existing dependencies?
+-->
 
 ## Documentation
 - [ ] I have updated the documentation accordingly
@@ -53,7 +55,9 @@ Add screenshots to help explain your changes
 
 ## Comments:
 
- Mention any comments and additional notes arising from this PR
+ <!--Mention any comments and additional notes arising from this PR
+ -->
 
 ## Reviewer Notes
-Any specific areas you'd like reviewers to focus on?
+<!--Any specific areas you'd like reviewers to focus on?
+-->
