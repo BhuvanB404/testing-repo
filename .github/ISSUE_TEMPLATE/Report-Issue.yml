@@ -8,12 +8,12 @@ body:
         Please fill out the sections below to help everyone identify and fix the bug
 
   - type: checkboxes
-  attributes:
-    label: "Is there an existing issue for this?"
-    description: Please search to see if an issue already exists for the bug you encountered
-    options:
-    - label: I have searched and didn't find similar issue
-      required: true
+    attributes:
+      label: "Is there an existing issue for this?"
+      description: Please search to see if an issue already exists for the bug you encountered
+      options:
+      - label: I have searched and didn't find similar issue
+        required: true
 
   - type: textarea
     id: description
